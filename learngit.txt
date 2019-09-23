@@ -1,4 +1,3 @@
 Git is free software
 Git is free software distributed under the GPL
-add in local11111
-add in local2222
+Create a new branch is quick
